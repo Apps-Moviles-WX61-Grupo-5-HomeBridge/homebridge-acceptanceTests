@@ -21,6 +21,6 @@ Then el sistema borrara su cuenta.
 
 Examples:
 | confirmation-toast | confirm-button |
-| Confirmación       | Confirmar
+| Confirmación       | Confirmar      |
 
 
