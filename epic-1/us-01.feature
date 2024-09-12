@@ -16,7 +16,8 @@ Scenario Outline: Registro exitoso
 
 Given el usuario llene la información requerida de registro
 When presiona el botón de “Registrarse”
-Then el sistema creara su nueva cuenta y lo redirigirá a la pantalla de inicio de sesión.
+Then el sistema creara su nueva cuenta 
+And lo redirigirá a la pantalla de inicio de sesión.
 
 Examples:
 | register-button |
